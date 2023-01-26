@@ -41,7 +41,7 @@
 
 .footer {
   background-color: #282c34;
-  padding: 25px 0px 25px 0px;
+  min-height: 10vh;
 }
 
 .imagen-footer {
