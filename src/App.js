@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className='footer'>
+        <img src='https://raw.githubusercontent.com/DamianZabcic/footer/fa4262610627165c151f6beb242a8049d18a2670/autor.svg' className='imagen-footer' alt="Damián Zabcic" />
+      </div>
     </div>
   );
 }
